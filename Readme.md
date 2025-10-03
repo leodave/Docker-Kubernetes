@@ -1,0 +1,1 @@
+This is a simple exercise to practice kubernets yaml files configuration. how to deploy your services in k8s.
